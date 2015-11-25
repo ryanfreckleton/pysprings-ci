@@ -1,3 +1,6 @@
+"""
+Automation tools for this project."
+"""
 import os
 import glob
 
